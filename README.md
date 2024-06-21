@@ -22,5 +22,5 @@
 ### We can check previous submissions and latest submissions
 ![image](https://github.com/ayushraj12009/slidelyAI-Form-Frontend/assets/51042913/8c2fe4d9-5611-4e00-882d-b5dbd1c568e9)
 
-### slidelyAI-Form-Backend Code Link
+### SlidelyAI-Form-Backend Code Repository
 https://github.com/ayushraj12009/slidelyAI-Form-Backend
